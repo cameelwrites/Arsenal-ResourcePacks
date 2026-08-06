@@ -3,7 +3,8 @@
     {
       "name": "Logo",
       "replace_ids": [
-        12986041671
+        12986041671,
+        12986041104
       ],
       "mode": "cdn",
       "enabled": true,
@@ -12,8 +13,7 @@
     {
       "name": "MenuMusic",
       "replace_ids": [
-        8274545307,
-        12986041104
+        8274545307
       ],
       "mode": "cdn",
       "enabled": true,

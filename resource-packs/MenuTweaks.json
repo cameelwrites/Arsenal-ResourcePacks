@@ -1,0 +1,23 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Logo",
+      "replace_ids": [
+        12986041671
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/other/assenal.png"
+    },
+    {
+      "name": "MenuMusic",
+      "replace_ids": [
+        8274545307,
+        12986041104
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/other/Arsenal_MainMenuFinalNew.mp3"
+    }
+  ]
+}

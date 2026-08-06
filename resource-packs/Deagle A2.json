@@ -1,0 +1,32 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Deagle equip",
+      "replace_ids": [4602498025],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13251557363
+    },
+    {
+      "name": "Deagle fire",
+      "replace_ids": [11819002035],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13251593994
+    },
+    {
+      "name": "Deagle inspect",
+      "replace_ids": [11819012804],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13251577188
+    },
+    {
+      "name": "Deagle reload",
+      "replace_ids": [11819021358],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13251585307
+    }
+  ]
+}

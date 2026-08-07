@@ -1,0 +1,106 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Head",
+      "replace_ids": [
+        495152230
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 128959422839952
+    },
+    {
+      "name": "Bod",
+      "replace_ids": [
+        696339842
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116589613054657
+    },
+    {
+      "name": "Removed",
+      "replace_ids": [
+        715139215,
+        5178309683,
+        5178309683,
+        1072904661,
+        7009692618
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "HeadTex",
+      "replace_ids": [
+        495082997
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13636445
+    },
+    {
+      "name": "BodTex",
+      "replace_ids": [
+        696339520
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 4948440385
+    },
+    {
+      "name": "Shirt",
+      "replace_ids": [
+        5178176970
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 5235614107
+    },
+    {
+      "name": "Pants",
+      "replace_ids": [
+        5178181199
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 5235614107
+    },
+    {
+      "name": "Face",
+      "replace_ids": [
+        5178415920
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 4486734732
+    },
+    {
+      "name": "RightSleeve",
+      "replace_ids": [
+        7009678409
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 97313752316519
+    },
+    {
+      "name": "SleeveTex",
+      "replace_ids": [
+        7009689621
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 111862129291361
+    },
+    {
+      "name": "LeftSleeve",
+      "replace_ids": [
+        7009678478
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 97313752316519
+    }
+  ]
+}

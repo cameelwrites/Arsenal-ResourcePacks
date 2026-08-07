@@ -1,0 +1,22 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Animation",
+      "replace_ids": [
+        2623644733
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 129764254213842
+    },
+    {
+      "name": "Sound",
+      "replace_ids": [
+        9060733660
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cameelwrites/Arsenal-ResourcePacks/refs/heads/main/assets/emotes/GangnamStyle.mp3"
+    }
+  ]
+}

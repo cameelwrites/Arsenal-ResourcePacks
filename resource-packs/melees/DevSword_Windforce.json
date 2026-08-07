@@ -1,0 +1,130 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Mesh_Small",
+      "replace_ids": [
+        5186730413
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81047722138760
+    },
+    {
+      "name": "Tex_Windforce",
+      "replace_ids": [
+        5186735134
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 88198887958401
+    },
+    {
+      "name": "Icon_Windforce",
+      "replace_ids": [
+        5211921590
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 77393773
+    },
+    {
+      "name": "Kill_Icon",
+      "replace_ids": [
+        5207173556
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 4194331239
+    },
+    {
+      "name": "WM_SwordFire",
+      "replace_ids": [
+        3188178744
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113966115452956
+    },
+    {
+      "name": "WM_SwordFire2",
+      "replace_ids": [
+        3188178744
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134912508739912
+    },
+    {
+      "name": "WM_Idle",
+      "replace_ids": [
+        3188177523
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 138580510715103
+    },
+    {
+      "name": "VM_equip",
+      "replace_ids": [
+        2205178933
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 1014185197
+    },
+    {
+      "name": "VM_fire",
+      "replace_ids": [
+        2205183906
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 1014188802
+    },
+    {
+      "name": "VM_fire2",
+      "replace_ids": [
+        2205185342
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 1014190013
+    },
+    {
+      "name": "VM_fire3",
+      "replace_ids": [
+        2205183906
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 1014188802
+    },
+    {
+      "name": "VM_fire4",
+      "replace_ids": [
+        2205183906
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 1014188802
+    },
+    {
+      "name": "VM_idle",
+      "replace_ids": [
+        444586166
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 1014194174
+    },
+    {
+      "name": "VM_inspect",
+      "replace_ids": [
+        2205417693
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/weapons/FixedInspectV2.rbxm"
+    }
+  ]
+}

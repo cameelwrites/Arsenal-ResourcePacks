@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Pear pear pear pear pear pear pear",
+      "replace_ids": [
+        5866390379
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cameelwrites/Arsenal-ResourcePacks/refs/heads/main/assets/weapon-skins/pearskin.jpg"
+    }
+  ]
+}

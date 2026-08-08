@@ -1,9 +1,10 @@
 # Resource Packs for Arsenal
 A list of custom resources you can apply to your Arsenal for some extra chaos.  
-
-| Resource |   |
+**Note: Custom content replaces existing content, in each category there will be a README showing what content is replaced.**  
+  
+| Resources |   |
 | -------- | -------- |
-| Deagle A2 | Replaces the Deagle animations with their A2 counterparts |
+| Custom Emotes | Replaces the Deagle animations with their A2 counterparts |
 | Gangnam Style | Replaces the Parker Pride emote with a custom Gangnam Style Emote |
 | Griddy | Replaces the Cranium Crowd emote with a custom Griddy Emote |
 | Spidra Monky | Replaces the Spidra skin with the Monky Skin |

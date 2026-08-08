@@ -1,1 +1,1 @@
-Please ignore this folder, it is only used to store assets for the resource packs!
+# Please ignore this folder, it is only used to store assets for the resource packs!

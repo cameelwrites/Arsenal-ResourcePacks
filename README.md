@@ -1,14 +1,25 @@
 # Resource Packs for Arsenal
-A list of custom resources you can apply to your Arsenal for some extra chaos.  
-**Note: Custom content replaces existing content, in each category there will be a README showing what content is replaced.**  
-  
-| Resources |   |
-| -------- | -------- |
-| Custom Cosmetics | New custom content such as emotes & weapon skins |
-| Developer Cosmetics | Developer content like the Monky Skin |
-| Legacy Content | Restore old sounds effects, animations & more |
+A list of custom resources you can apply to your Arsenal for some extra chaos.   
+ 
+| Packs |  Added | Planned |
+| -------- | -------- | -------- |
+| Monky (Skin) | ✔ |
+| Moderation Hammer (Melee) | ❌ | ✔
+| Gangnam Style (Emote) | ✔ |
+| Griddy (Emote) | ✔ | 
+| Wide Walk (Emote) | ❌ | ✔
+| Dev Swords (Melee) | ✔ |
+| Pear (Weapon Skin) | ✔ |
+| A2 Deagle Animations | ✔ |
+| No Gamemode Border | ✔ |
+| Legacy Impact Sounds | ✔ |
+| Legacy Gun Sounds **[BETA]** | ✔ |
+| Legacy Misc Sounds | ✔ |
+| Legacy Dagger Animations | ✔ |
+| Legacy Gun Models | ❌ | ❓
 
 ### You can check out Fleasion here: https://github.com/fleasion/Fleasion  
+**Note: Custom content replaces existing content, in each category there will be a README showing what content is replaced.**  
 
 # How To Install
 1. Install/Open Fleasion

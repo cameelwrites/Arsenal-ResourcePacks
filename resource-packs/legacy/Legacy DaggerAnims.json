@@ -5,63 +5,63 @@
       "replace_ids": [
         11841621585
       ],
-      "mode": "id",
+      "mode": "cdn",
       "enabled": true,
-      "with_id": 2773153184
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/weapons/dagger/equip.rbxm"
     },
     {
       "name": "OldFire",
       "replace_ids": [
         11841634995
       ],
-      "mode": "id",
+      "mode": "cdn",
       "enabled": true,
-      "with_id": 2773170774
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/weapons/dagger/fire1.rbxm"
     },
     {
       "name": "OldFire2",
       "replace_ids": [
         11841639954
       ],
-      "mode": "id",
+      "mode": "cdn",
       "enabled": true,
-      "with_id": 2773172295
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/weapons/dagger/fire2.rbxm"
     },
     {
       "name": "OldFire3",
       "replace_ids": [
         11841634995
       ],
-      "mode": "id",
+      "mode": "cdn",
       "enabled": true,
-      "with_id": 2773170774
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/weapons/dagger/fire1.rbxm"
     },
     {
       "name": "OldFire4",
       "replace_ids": [
         11841626863
       ],
-      "mode": "id",
+      "mode": "cdn",
       "enabled": true,
-      "with_id": 2773193984
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/weapons/dagger/fire4.rbxm"
     },
     {
       "name": "OldIdle",
       "replace_ids": [
         14326821464
       ],
-      "mode": "id",
-      "enabled": true,
-      "with_id": 2773153888
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/weapons/dagger/inspect.rbxm"
     },
     {
       "name": "OldInspect",
       "replace_ids": [
         11841623956
       ],
-      "mode": "id",
+      "mode": "cdn",
       "enabled": true,
-      "with_id": 2773156298
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/weapons/dagger/inspect.rbxm"
     }
   ]
 }

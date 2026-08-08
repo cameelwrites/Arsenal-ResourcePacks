@@ -1,0 +1,68 @@
+{
+  "replacement_rules": [
+    {
+      "name": "WideWalk",
+      "replace_ids": [
+        6152503512
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14326821464
+    },
+    {
+      "name": "NoAnim",
+      "replace_ids": [
+        6157834812,
+        6157859952,
+        2601875869
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/emotes/GriddyFix.rbxm"
+    },
+    {
+      "name": "RemoveTrain",
+      "replace_ids": [
+        5991796188,
+        5991796251,
+        5991795868,
+        5991795933,
+        5991795785,
+        5991796119,
+        5991796328,
+        5991796004,
+        5991796062,
+        5991795711
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Image",
+      "replace_ids": [
+        6173942393
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/emotes/WideWalk.jpg"
+    },
+    {
+      "name": "RemoveSound",
+      "replace_ids": [
+        6171018481,
+        6168954396
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "WalkSound",
+      "replace_ids": [
+        6171035469
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/emotes/WideWalk.ogg"
+    }
+  ]
+}

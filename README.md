@@ -1,5 +1,5 @@
 # Resource Packs for Arsenal
-A list of custom resources you can apply to your Arsenal for some extra chaos via Fleasion.
+A list of custom resources you can apply to your Arsenal for some extra chaos via Fleasion.  
 **WARNING: Due to the way Fleasion works, there may be unintended side effects such as missing assets or incorrect assets**
  
 | Packs |  Added | Planned | Notes |

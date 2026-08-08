@@ -4,14 +4,9 @@ A list of custom resources you can apply to your Arsenal for some extra chaos.
   
 | Resources |   |
 | -------- | -------- |
-| Custom Emotes | Replaces the Deagle animations with their A2 counterparts |
-| Gangnam Style | Replaces the Parker Pride emote with a custom Gangnam Style Emote |
-| Griddy | Replaces the Cranium Crowd emote with a custom Griddy Emote |
-| Spidra Monky | Replaces the Spidra skin with the Monky Skin |
-| Baby Pear | Replaces the Candles Weapon Skin with Baby Pear |
-| Dev Swords | Replaces the Newspaper Melee with a Developer Sword of choice |
-| Legacy Sounds | Restores some of the classic miscellaneous sounds |
-| Legacy Gun Sounds **[BETA]**  | Attempts to restore early 2021 gun sounds |
+| Custom Cosmetics | New custom content such as emotes & weapon skins |
+| Developer Cosmetics | Developer content like the Monky Skin |
+| Legacy Content | Restore old sounds effects, animations & more |
 
 ### You can check out Fleasion here: https://github.com/fleasion/Fleasion  
 

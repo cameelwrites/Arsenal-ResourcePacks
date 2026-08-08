@@ -7,9 +7,9 @@ A list of custom resources you can apply to your Arsenal for some extra chaos vi
 | Monky (Skin) | ✔ |
 | Moderation Hammer (Melee) | ❌ | ✔
 | Gangnam Style (Emote) | ✔ |
-| Griddy (Emote) | ✔ | 
+| Griddy (Emote) | ✔ | | Sometimes the audio doesn't work |
 | Wide Walk (Emote) | ❌ | ✔
-| Dev Swords (Melee) | ✔ |
+| Dev Swords (Melee) | ✔ | | Grip and scaling is slightly off |
 | Pear (Weapon Skin) | ✔ |
 | A2 Deagle Animations | ✔ |
 | No Gamemode Border | ✔ |

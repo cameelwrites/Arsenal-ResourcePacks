@@ -20,7 +20,7 @@ A list of custom resources you can apply to your Arsenal for some extra chaos vi
 | Moderation Hammer (Melee) | ❌ | ✔
 | Gangnam Style (Emote) | ✔ |
 | Griddy (Emote) | ✔ | | Sometimes the audio doesn't work |
-| Wide Walk (Emote) | ✅ | | Black circle appears in front of character & character floats
+| Wide Walk (Emote) | ✔ | | Black circle appears in front of character & character floats
 | Dev Swords (Melee) | ✔ | | Grip and scaling is slightly off |
 | Pear (Weapon Skin) | ✔ |
 | A2 Deagle Animations | ✔ |

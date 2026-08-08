@@ -1,0 +1,12 @@
+{
+  "replacement_rules": [
+    {
+      "name": "RemoveBorders",
+      "replace_ids": [
+        5140230778
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}

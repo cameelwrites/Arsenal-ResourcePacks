@@ -1,0 +1,40 @@
+{
+  "replacement_rules": [
+    {
+      "name": "OldRevenge",
+      "replace_ids": [
+        6984606713
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/Revenge.ogg"
+    },
+    {
+      "name": "Promote",
+      "replace_ids": [
+        14984446039
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 398693937
+    },
+    {
+      "name": "DoubleJump",
+      "replace_ids": [
+        7184436954
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 268275539
+    },
+    {
+      "name": "GlassBreak",
+      "replace_ids": [
+        11182370507
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 516789356
+    }
+  ]
+}

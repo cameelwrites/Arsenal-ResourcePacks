@@ -1,0 +1,67 @@
+{
+  "replacement_rules": [
+    {
+      "name": "OldEquip",
+      "replace_ids": [
+        11841621585
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 2773153184
+    },
+    {
+      "name": "OldFire",
+      "replace_ids": [
+        11841634995
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 2773170774
+    },
+    {
+      "name": "OldFire2",
+      "replace_ids": [
+        11841639954
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 2773172295
+    },
+    {
+      "name": "OldFire3",
+      "replace_ids": [
+        11841634995
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 2773170774
+    },
+    {
+      "name": "OldFire4",
+      "replace_ids": [
+        11841626863
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 2773193984
+    },
+    {
+      "name": "OldIdle",
+      "replace_ids": [
+        14326821464
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 2773153888
+    },
+    {
+      "name": "OldInspect",
+      "replace_ids": [
+        11841623956
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 2773156298
+    }
+  ]
+}

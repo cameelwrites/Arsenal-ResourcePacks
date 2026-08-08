@@ -1,0 +1,112 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Wood1",
+      "replace_ids": [
+        11210867422
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/wood_box_impact_bullet1.ogg"
+    },
+    {
+      "name": "Wood2",
+      "replace_ids": [
+        11210867289
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/wood_box_impact_bullet2.ogg"
+    },
+    {
+      "name": "Wood3",
+      "replace_ids": [
+        11210867520
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/wood_box_impact_bullet3.ogg"
+    },
+    {
+      "name": "Wood4",
+      "replace_ids": [
+        11210867626
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/wood_box_impact_bullet4.ogg"
+    },
+    {
+      "name": "Metal1",
+      "replace_ids": [
+        11210756455
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/blob/main/assets/legacy-sounds/impacts/metal_box_impact_bullet1.ogg"
+    },
+    {
+      "name": "Metal2",
+      "replace_ids": [
+        11210756543
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/metal_box_impact_bullet2.ogg"
+    },
+    {
+      "name": "Metal3",
+      "replace_ids": [
+        11210756358
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/metal_box_impact_bullet3.ogg"
+    },
+    {
+      "name": "Metal4",
+      "replace_ids": [
+        11210756265
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/metal_box_impact_bullet4.ogg"
+    },
+    {
+      "name": "Concrete1",
+      "replace_ids": [
+        11210728675
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/concrete_impact_bullet1.ogg"
+    },
+    {
+      "name": "Concrete2",
+      "replace_ids": [
+        11210728588
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/concrete_impact_bullet2.ogg"
+    },
+    {
+      "name": "Concrete3",
+      "replace_ids": [
+        11210728497
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/concrete_impact_bullet3.ogg"
+    },
+    {
+      "name": "Concrete4",
+      "replace_ids": [
+        11210728415
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/legacy-sounds/impacts/concrete_impact_bullet4.ogg"
+    }
+  ]
+}

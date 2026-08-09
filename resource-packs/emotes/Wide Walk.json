@@ -5,9 +5,9 @@
       "replace_ids": [
         6152503512
       ],
-      "mode": "id",
+      "mode": "cdn",
       "enabled": true,
-      "with_id": 14326821464
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/emotes/wideWalk.rbxm"
     },
     {
       "name": "NoAnim",

@@ -1,0 +1,41 @@
+name: "Report an Issue"
+description: "Report resource pack related issues"
+title: "[BUG] "
+labels: ["bug"]
+
+body:
+  - type: textarea
+    id: issue
+    attributes:
+      label: "Issue"
+      description: "Please describe the issue you are witnessing"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: maps
+    attributes:
+      label: "Steps to Reproduce"
+      description: "Explain as best as you can on how to replicate this bug"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: severity
+    attributes:
+      label: "What is the severity of this issue
+      options:
+        - label: "Major"
+        - label: "Mild"
+        - label: "Minor"
+        - label: "Unclear"
+    validations:
+      required: true
+
+  - type: textarea
+    id: proof
+    attributes:
+      label: "Media"
+      description: "Upload any media via link or upload of the issue you are experiencing"
+    validations:
+      required: false

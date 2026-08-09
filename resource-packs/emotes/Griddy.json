@@ -36,8 +36,9 @@
         18493414054,
         18493420442
       ],
-      "mode": "id",
-      "enabled": true
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cameelwrites/Arsenal-ResourcePacks/raw/refs/heads/main/assets/animations/emotes/GriddyFix.rbxm"
     },
     {
       "name": "NoStart",

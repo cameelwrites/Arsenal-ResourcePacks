@@ -1,0 +1,32 @@
+name: "Make a Suggestion"
+description: "Suggest new features & changes"
+title: "[FEAT] "
+labels: ["feature"]
+
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: "Proposed Change"
+      description: "Explain your proposed change"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: concept
+    attributes:
+      label: "Concepts"
+      description: "Upload any concepts you may have (if any)"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: severity
+    attributes:
+      label: "Type of Suggestion"
+      options:
+        - label: "Feature"
+        - label: "Enhancement"
+        - label: "Removal"
+    validations:
+      required: true

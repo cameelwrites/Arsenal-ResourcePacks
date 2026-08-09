@@ -19,6 +19,14 @@ body:
       description: "Explain as best as you can on how to replicate this bug"
     validations:
       required: true
+      
+  - type: textarea
+    id: proof
+    attributes:
+      label: "Media"
+      description: "Upload any media via link or upload of the issue you are experiencing"
+    validations:
+      required: false
 
   - type: checkboxes
     id: severity
@@ -31,11 +39,3 @@ body:
         - label: "Unclear"
     validations:
       required: true
-
-  - type: textarea
-    id: proof
-    attributes:
-      label: "Media"
-      description: "Upload any media via link or upload of the issue you are experiencing"
-    validations:
-      required: false

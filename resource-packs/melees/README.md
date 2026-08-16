@@ -8,3 +8,4 @@
 | Illumnia | Newspaper | Melee |
 | Venomshank | Newspaper | Melee |
 | Windforce | Newspaper | Melee |
+| Night's Sword | Night's Edge | Animations |

@@ -1,0 +1,53 @@
+{
+  "replacement_rules": [
+    {
+      "enabled": true,
+      "name": "Replace_fire3",
+      "with_id": 1014188802,
+      "mode": "id",
+      "replace_ids": [4646588182]
+    },
+    {
+      "enabled": true,
+      "name": "Replace_fire2",
+      "with_id": 1014190013,
+      "mode": "id",
+      "replace_ids": [4646589134]
+    },
+    {
+      "enabled": true,
+      "name": "Replace_idle",
+      "with_id": 1014194174,
+      "mode": "id",
+      "replace_ids": [444586166]
+    },
+    {
+      "enabled": true,
+      "name": "Replace_equip",
+      "with_id": 1014185197,
+      "mode": "id",
+      "replace_ids": [4646580884]
+    },
+    {
+      "enabled": true,
+      "name": "Replace_fire4",
+      "with_id": 0,
+      "mode": "id",
+      "replace_ids": [4646600947]
+    },
+    {
+      "enabled": true,
+      "name": "Replace_fire",
+      "with_id": 1014188802,
+      "mode": "id",
+      "replace_ids": [4646588182]
+    },
+    {
+      "enabled": true,
+      "name": "Replace_inspect",
+      "with_id": 1014219477,
+      "mode": "id",
+      "replace_ids": [4646586804]
+    }
+  ]
+}

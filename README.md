@@ -21,7 +21,7 @@ A list of custom resources you can apply to your Arsenal for some extra chaos vi
 | Gangnam Style (Emote) | ✔ |
 | Griddy (Emote) | ✔ | | Sometimes the audio doesn't work |
 | Wide Walk (Emote) | ✔ | | Character floats, side effect from Train Emote
-| Dev Swords (Melee) | ✔ | | Grip and scaling is slightly off |
+| Dev Swords (Melee) | ✔ | | |
 | Pear (Weapon Skin) | ✔ |
 | A2 Deagle Animations | ✔ |
 | Sword Anims on Night's Edge| ✔ |

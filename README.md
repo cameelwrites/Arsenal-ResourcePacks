@@ -24,6 +24,7 @@ A list of custom resources you can apply to your Arsenal for some extra chaos vi
 | Dev Swords (Melee) | ✔ | | Grip and scaling is slightly off |
 | Pear (Weapon Skin) | ✔ |
 | A2 Deagle Animations | ✔ |
+| Sword Anims on Night's Edge| ✔ |
 | No Gamemode Border | ✔ |
 | Legacy Impact Sounds | ✔ |
 | Legacy Gun Sounds **[BETA]** | ✔ | | Some sounds may have the wrong speed/volume |
